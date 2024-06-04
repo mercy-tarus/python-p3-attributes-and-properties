@@ -1,0 +1,51 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "aws-0-ap-south-1.pooler.supabase.com",
+      "database": "fishme",
+      "username": "postgres.zmiqxdwbrpxxgszhanic"
+    },
+    {
+      "previewLimit": 50,
+      "server": "aws-0-ap-south-1.pooler.supabase.com",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "username": "postgres.zmiqxdwbrpxxgszhanic",
+      "database": "fishme",
+      "name": "postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "locaaws-0-ap-south-1.pooler.supabase.comlhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "username": "postgres.zmiqxdwbrpxxgszhanic",
+      "database": "fishme"
+    },
+    {
+      "previewLimit": 50,
+      "server": "aws-0-ap-south-1.pooler.supabase.com",
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "username": "postgres.zmiqxdwbrpxxgszhanic",
+      "database": "fishme",
+      "connectString": "postgres://postgres.zmiqxdwbrpxxgszhanic:[YOUR-PASSWORD]@aws-0-ap-south-1.pooler.supabase.com:5432/postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "aws-0-ap-south-1.pooler.supabase.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "username": "postgres.zmiqxdwbrpxxgszhanic",
+      "database": "postgres",
+      "name": "fishme"
+    }
+  ]
+}
